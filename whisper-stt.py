@@ -65,17 +65,11 @@ data = {
 
 directory = "training_data_wavs"
 
-
-
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 models = ['tiny.en', 'tiny', 'base.en', 'base', 'small.en', 'small', 'medium.en', 'medium', 'large-v1', 'large-v2', 'large-v3', 'large', 'large-v3-turbo', 'turbo']
 
-output_file_name = "output.txt"
 csv_output_file_name = "output.csv"
-
-with open(output_file_name, "w", encoding="utf-8") as output_file:
-    output_file.write('')
 
 with open(csv_output_file_name, "w", encoding="utf-8") as csv_file:
     csv_file.write(f'model|latency|file|prediction|truth\n')
@@ -94,14 +88,6 @@ for model_name in models:
             output = (f'Transcription with {latency:.2f}s of latency for {model_name} model for {audio_file}:\n'
                       f'Prediction: {result["text"]}\nGround truth: {data[directory + '/' + audio_file]}\n')
             print(output)
-            csv_output = (
-                f'{model_name}|{latency:.2f}|{audio_file}|{result["text"]}|{data[directory + '/' + audio_file]}\n')
-            with open(output_file_name, "a", encoding="utf-8") as file:
-                file.write(output)
+            csv_output = (f'{model_name}|{latency:.2f}|{audio_file}|{result["text"]}|{data[directory + '/' + audio_file]}\n')
             with open(csv_output_file_name, "a", encoding="utf-8") as csv_file:
                 csv_file.write(csv_output)
-
-
-
-    with open(output_file_name, "a", encoding="utf-8") as file:
-        file.write("\n")
