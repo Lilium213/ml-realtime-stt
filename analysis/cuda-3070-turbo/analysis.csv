@@ -1,0 +1,551 @@
+model|latency|file|prediction|truth
+turbo|1.02|sentence_1.wav| Hello, how are you doing today?|Hello, how are you doing today?
+turbo|0.34|sentence_1.wav| Hello, how are you doing today?|Hello, how are you doing today?
+turbo|0.33|sentence_1.wav| Hello, how are you doing today?|Hello, how are you doing today?
+turbo|0.33|sentence_1.wav| Hello, how are you doing today?|Hello, how are you doing today?
+turbo|0.36|sentence_1.wav| Hello, how are you doing today?|Hello, how are you doing today?
+turbo|0.33|sentence_1.wav| Hello, how are you doing today?|Hello, how are you doing today?
+turbo|0.33|sentence_1.wav| Hello, how are you doing today?|Hello, how are you doing today?
+turbo|0.34|sentence_1.wav| Hello, how are you doing today?|Hello, how are you doing today?
+turbo|0.33|sentence_1.wav| Hello, how are you doing today?|Hello, how are you doing today?
+turbo|0.35|sentence_1.wav| Hello, how are you doing today?|Hello, how are you doing today?
+turbo|0.34|sentence_10.wav| Have you tried the new restaurant in town?|Have you tried the new restaurant in town?
+turbo|0.35|sentence_10.wav| Have you tried the new restaurant in town?|Have you tried the new restaurant in town?
+turbo|0.34|sentence_10.wav| Have you tried the new restaurant in town?|Have you tried the new restaurant in town?
+turbo|0.34|sentence_10.wav| Have you tried the new restaurant in town?|Have you tried the new restaurant in town?
+turbo|0.34|sentence_10.wav| Have you tried the new restaurant in town?|Have you tried the new restaurant in town?
+turbo|0.33|sentence_10.wav| Have you tried the new restaurant in town?|Have you tried the new restaurant in town?
+turbo|0.34|sentence_10.wav| Have you tried the new restaurant in town?|Have you tried the new restaurant in town?
+turbo|0.33|sentence_10.wav| Have you tried the new restaurant in town?|Have you tried the new restaurant in town?
+turbo|0.34|sentence_10.wav| Have you tried the new restaurant in town?|Have you tried the new restaurant in town?
+turbo|0.34|sentence_10.wav| Have you tried the new restaurant in town?|Have you tried the new restaurant in town?
+turbo|0.35|sentence_11.wav| My phone number is 555-1234.|My phone number is 555-1234.
+turbo|0.34|sentence_11.wav| My phone number is 555-1234.|My phone number is 555-1234.
+turbo|0.35|sentence_11.wav| My phone number is 555-1234.|My phone number is 555-1234.
+turbo|0.35|sentence_11.wav| My phone number is 555-1234.|My phone number is 555-1234.
+turbo|0.34|sentence_11.wav| My phone number is 555-1234.|My phone number is 555-1234.
+turbo|0.34|sentence_11.wav| My phone number is 555-1234.|My phone number is 555-1234.
+turbo|0.34|sentence_11.wav| My phone number is 555-1234.|My phone number is 555-1234.
+turbo|0.34|sentence_11.wav| My phone number is 555-1234.|My phone number is 555-1234.
+turbo|0.34|sentence_11.wav| My phone number is 555-1234.|My phone number is 555-1234.
+turbo|0.34|sentence_11.wav| My phone number is 555-1234.|My phone number is 555-1234.
+turbo|0.34|sentence_12.wav| I was born on January 15, 1995.|I was born on January 15, 1995.
+turbo|0.34|sentence_12.wav| I was born on January 15, 1995.|I was born on January 15, 1995.
+turbo|0.34|sentence_12.wav| I was born on January 15, 1995.|I was born on January 15, 1995.
+turbo|0.34|sentence_12.wav| I was born on January 15, 1995.|I was born on January 15, 1995.
+turbo|0.33|sentence_12.wav| I was born on January 15, 1995.|I was born on January 15, 1995.
+turbo|0.34|sentence_12.wav| I was born on January 15, 1995.|I was born on January 15, 1995.
+turbo|0.34|sentence_12.wav| I was born on January 15, 1995.|I was born on January 15, 1995.
+turbo|0.34|sentence_12.wav| I was born on January 15, 1995.|I was born on January 15, 1995.
+turbo|0.35|sentence_12.wav| I was born on January 15, 1995.|I was born on January 15, 1995.
+turbo|0.34|sentence_12.wav| I was born on January 15, 1995.|I was born on January 15, 1995.
+turbo|0.34|sentence_13.wav| I have 3200 emails in my inbox.|I have 32 unread emails in my inbox.
+turbo|0.34|sentence_13.wav| I have 3200 emails in my inbox.|I have 32 unread emails in my inbox.
+turbo|0.33|sentence_13.wav| I have 3200 emails in my inbox.|I have 32 unread emails in my inbox.
+turbo|0.34|sentence_13.wav| I have 3200 emails in my inbox.|I have 32 unread emails in my inbox.
+turbo|0.34|sentence_13.wav| I have 3200 emails in my inbox.|I have 32 unread emails in my inbox.
+turbo|0.34|sentence_13.wav| I have 3200 emails in my inbox.|I have 32 unread emails in my inbox.
+turbo|0.34|sentence_13.wav| I have 3200 emails in my inbox.|I have 32 unread emails in my inbox.
+turbo|0.34|sentence_13.wav| I have 3200 emails in my inbox.|I have 32 unread emails in my inbox.
+turbo|0.34|sentence_13.wav| I have 3200 emails in my inbox.|I have 32 unread emails in my inbox.
+turbo|0.34|sentence_13.wav| I have 3200 emails in my inbox.|I have 32 unread emails in my inbox.
+turbo|0.40|sentence_14.wav| The meeting starts at 9 a.m. and ends at 11.30 a.m.|The meeting starts at 9 AM and ends at 11:30 AM.
+turbo|0.39|sentence_14.wav| The meeting starts at 9 a.m. and ends at 11.30 a.m.|The meeting starts at 9 AM and ends at 11:30 AM.
+turbo|0.39|sentence_14.wav| The meeting starts at 9 a.m. and ends at 11.30 a.m.|The meeting starts at 9 AM and ends at 11:30 AM.
+turbo|0.39|sentence_14.wav| The meeting starts at 9 a.m. and ends at 11.30 a.m.|The meeting starts at 9 AM and ends at 11:30 AM.
+turbo|0.39|sentence_14.wav| The meeting starts at 9 a.m. and ends at 11.30 a.m.|The meeting starts at 9 AM and ends at 11:30 AM.
+turbo|0.39|sentence_14.wav| The meeting starts at 9 a.m. and ends at 11.30 a.m.|The meeting starts at 9 AM and ends at 11:30 AM.
+turbo|0.40|sentence_14.wav| The meeting starts at 9 a.m. and ends at 11.30 a.m.|The meeting starts at 9 AM and ends at 11:30 AM.
+turbo|0.40|sentence_14.wav| The meeting starts at 9 a.m. and ends at 11.30 a.m.|The meeting starts at 9 AM and ends at 11:30 AM.
+turbo|0.39|sentence_14.wav| The meeting starts at 9 a.m. and ends at 11.30 a.m.|The meeting starts at 9 AM and ends at 11:30 AM.
+turbo|0.39|sentence_14.wav| The meeting starts at 9 a.m. and ends at 11.30 a.m.|The meeting starts at 9 AM and ends at 11:30 AM.
+turbo|0.32|sentence_15.wav| there are 24 hours in the day|There are 24 hours in a day.
+turbo|0.32|sentence_15.wav| there are 24 hours in the day|There are 24 hours in a day.
+turbo|0.33|sentence_15.wav| there are 24 hours in the day|There are 24 hours in a day.
+turbo|0.33|sentence_15.wav| there are 24 hours in the day|There are 24 hours in a day.
+turbo|0.32|sentence_15.wav| there are 24 hours in the day|There are 24 hours in a day.
+turbo|0.33|sentence_15.wav| there are 24 hours in the day|There are 24 hours in a day.
+turbo|0.32|sentence_15.wav| there are 24 hours in the day|There are 24 hours in a day.
+turbo|0.33|sentence_15.wav| there are 24 hours in the day|There are 24 hours in a day.
+turbo|0.33|sentence_15.wav| there are 24 hours in the day|There are 24 hours in a day.
+turbo|0.33|sentence_15.wav| there are 24 hours in the day|There are 24 hours in a day.
+turbo|0.34|sentence_16.wav| The price of the item is $99.99|The price of the item is $99.99.
+turbo|0.34|sentence_16.wav| The price of the item is $99.99|The price of the item is $99.99.
+turbo|0.35|sentence_16.wav| The price of the item is $99.99|The price of the item is $99.99.
+turbo|0.34|sentence_16.wav| The price of the item is $99.99|The price of the item is $99.99.
+turbo|0.35|sentence_16.wav| The price of the item is $99.99|The price of the item is $99.99.
+turbo|0.34|sentence_16.wav| The price of the item is $99.99|The price of the item is $99.99.
+turbo|0.34|sentence_16.wav| The price of the item is $99.99|The price of the item is $99.99.
+turbo|0.35|sentence_16.wav| The price of the item is $99.99|The price of the item is $99.99.
+turbo|0.34|sentence_16.wav| The price of the item is $99.99|The price of the item is $99.99.
+turbo|0.34|sentence_16.wav| The price of the item is $99.99|The price of the item is $99.99.
+turbo|0.34|sentence_17.wav| I'll need three cups of flour and two eggs.|I’ll need 3 cups of flour and 2 eggs.
+turbo|0.35|sentence_17.wav| I'll need three cups of flour and two eggs.|I’ll need 3 cups of flour and 2 eggs.
+turbo|0.35|sentence_17.wav| I'll need three cups of flour and two eggs.|I’ll need 3 cups of flour and 2 eggs.
+turbo|0.35|sentence_17.wav| I'll need three cups of flour and two eggs.|I’ll need 3 cups of flour and 2 eggs.
+turbo|0.35|sentence_17.wav| I'll need three cups of flour and two eggs.|I’ll need 3 cups of flour and 2 eggs.
+turbo|0.35|sentence_17.wav| I'll need three cups of flour and two eggs.|I’ll need 3 cups of flour and 2 eggs.
+turbo|0.34|sentence_17.wav| I'll need three cups of flour and two eggs.|I’ll need 3 cups of flour and 2 eggs.
+turbo|0.35|sentence_17.wav| I'll need three cups of flour and two eggs.|I’ll need 3 cups of flour and 2 eggs.
+turbo|0.34|sentence_17.wav| I'll need three cups of flour and two eggs.|I’ll need 3 cups of flour and 2 eggs.
+turbo|0.35|sentence_17.wav| I'll need three cups of flour and two eggs.|I’ll need 3 cups of flour and 2 eggs.
+turbo|0.34|sentence_18.wav| the train arrives at 3 45 in the afternoon|The train arrives at 3:45 in the afternoon.
+turbo|0.34|sentence_18.wav| the train arrives at 3 45 in the afternoon|The train arrives at 3:45 in the afternoon.
+turbo|0.34|sentence_18.wav| the train arrives at 3 45 in the afternoon|The train arrives at 3:45 in the afternoon.
+turbo|0.34|sentence_18.wav| the train arrives at 3 45 in the afternoon|The train arrives at 3:45 in the afternoon.
+turbo|0.34|sentence_18.wav| the train arrives at 3 45 in the afternoon|The train arrives at 3:45 in the afternoon.
+turbo|0.34|sentence_18.wav| the train arrives at 3 45 in the afternoon|The train arrives at 3:45 in the afternoon.
+turbo|0.34|sentence_18.wav| the train arrives at 3 45 in the afternoon|The train arrives at 3:45 in the afternoon.
+turbo|0.34|sentence_18.wav| the train arrives at 3 45 in the afternoon|The train arrives at 3:45 in the afternoon.
+turbo|0.34|sentence_18.wav| the train arrives at 3 45 in the afternoon|The train arrives at 3:45 in the afternoon.
+turbo|0.34|sentence_18.wav| the train arrives at 3 45 in the afternoon|The train arrives at 3:45 in the afternoon.
+turbo|0.36|sentence_19.wav| It's a sunny day with a few clouds in the sky.|It’s a sunny day with a few clouds in the sky.
+turbo|0.36|sentence_19.wav| It's a sunny day with a few clouds in the sky.|It’s a sunny day with a few clouds in the sky.
+turbo|0.37|sentence_19.wav| It's a sunny day with a few clouds in the sky.|It’s a sunny day with a few clouds in the sky.
+turbo|0.35|sentence_19.wav| It's a sunny day with a few clouds in the sky.|It’s a sunny day with a few clouds in the sky.
+turbo|0.36|sentence_19.wav| It's a sunny day with a few clouds in the sky.|It’s a sunny day with a few clouds in the sky.
+turbo|0.35|sentence_19.wav| It's a sunny day with a few clouds in the sky.|It’s a sunny day with a few clouds in the sky.
+turbo|0.35|sentence_19.wav| It's a sunny day with a few clouds in the sky.|It’s a sunny day with a few clouds in the sky.
+turbo|0.36|sentence_19.wav| It's a sunny day with a few clouds in the sky.|It’s a sunny day with a few clouds in the sky.
+turbo|0.36|sentence_19.wav| It's a sunny day with a few clouds in the sky.|It’s a sunny day with a few clouds in the sky.
+turbo|0.35|sentence_19.wav| It's a sunny day with a few clouds in the sky.|It’s a sunny day with a few clouds in the sky.
+turbo|0.34|sentence_2.wav| I hope you're having a great day.|I hope you’re having a great day!
+turbo|0.33|sentence_2.wav| I hope you're having a great day.|I hope you’re having a great day!
+turbo|0.34|sentence_2.wav| I hope you're having a great day.|I hope you’re having a great day!
+turbo|0.34|sentence_2.wav| I hope you're having a great day.|I hope you’re having a great day!
+turbo|0.33|sentence_2.wav| I hope you're having a great day.|I hope you’re having a great day!
+turbo|0.33|sentence_2.wav| I hope you're having a great day.|I hope you’re having a great day!
+turbo|0.34|sentence_2.wav| I hope you're having a great day.|I hope you’re having a great day!
+turbo|0.34|sentence_2.wav| I hope you're having a great day.|I hope you’re having a great day!
+turbo|0.34|sentence_2.wav| I hope you're having a great day.|I hope you’re having a great day!
+turbo|0.34|sentence_2.wav| I hope you're having a great day.|I hope you’re having a great day!
+turbo|0.33|sentence_20.wav| The temperature is 22 degrees Celsius.|The temperature is 22 degrees Celsius.
+turbo|0.33|sentence_20.wav| The temperature is 22 degrees Celsius.|The temperature is 22 degrees Celsius.
+turbo|0.32|sentence_20.wav| The temperature is 22 degrees Celsius.|The temperature is 22 degrees Celsius.
+turbo|0.33|sentence_20.wav| The temperature is 22 degrees Celsius.|The temperature is 22 degrees Celsius.
+turbo|0.33|sentence_20.wav| The temperature is 22 degrees Celsius.|The temperature is 22 degrees Celsius.
+turbo|0.33|sentence_20.wav| The temperature is 22 degrees Celsius.|The temperature is 22 degrees Celsius.
+turbo|0.33|sentence_20.wav| The temperature is 22 degrees Celsius.|The temperature is 22 degrees Celsius.
+turbo|0.33|sentence_20.wav| The temperature is 22 degrees Celsius.|The temperature is 22 degrees Celsius.
+turbo|0.33|sentence_20.wav| The temperature is 22 degrees Celsius.|The temperature is 22 degrees Celsius.
+turbo|0.32|sentence_20.wav| The temperature is 22 degrees Celsius.|The temperature is 22 degrees Celsius.
+turbo|0.33|sentence_21.wav| It started raining heavily after lunch.|It started raining heavily after lunch.
+turbo|0.33|sentence_21.wav| It started raining heavily after lunch.|It started raining heavily after lunch.
+turbo|0.32|sentence_21.wav| It started raining heavily after lunch.|It started raining heavily after lunch.
+turbo|0.33|sentence_21.wav| It started raining heavily after lunch.|It started raining heavily after lunch.
+turbo|0.33|sentence_21.wav| It started raining heavily after lunch.|It started raining heavily after lunch.
+turbo|0.32|sentence_21.wav| It started raining heavily after lunch.|It started raining heavily after lunch.
+turbo|0.32|sentence_21.wav| It started raining heavily after lunch.|It started raining heavily after lunch.
+turbo|0.33|sentence_21.wav| It started raining heavily after lunch.|It started raining heavily after lunch.
+turbo|0.33|sentence_21.wav| It started raining heavily after lunch.|It started raining heavily after lunch.
+turbo|0.32|sentence_21.wav| It started raining heavily after lunch.|It started raining heavily after lunch.
+turbo|0.34|sentence_22.wav| it's windy outside so hold on to your head|It’s windy outside, so hold on to your hat.
+turbo|0.34|sentence_22.wav| it's windy outside so hold on to your head|It’s windy outside, so hold on to your hat.
+turbo|0.34|sentence_22.wav| it's windy outside so hold on to your head|It’s windy outside, so hold on to your hat.
+turbo|0.34|sentence_22.wav| it's windy outside so hold on to your head|It’s windy outside, so hold on to your hat.
+turbo|0.35|sentence_22.wav| it's windy outside so hold on to your head|It’s windy outside, so hold on to your hat.
+turbo|0.35|sentence_22.wav| it's windy outside so hold on to your head|It’s windy outside, so hold on to your hat.
+turbo|0.35|sentence_22.wav| it's windy outside so hold on to your head|It’s windy outside, so hold on to your hat.
+turbo|0.34|sentence_22.wav| it's windy outside so hold on to your head|It’s windy outside, so hold on to your hat.
+turbo|0.34|sentence_22.wav| it's windy outside so hold on to your head|It’s windy outside, so hold on to your hat.
+turbo|0.34|sentence_22.wav| it's windy outside so hold on to your head|It’s windy outside, so hold on to your hat.
+turbo|0.32|sentence_23.wav| Where is the nearest grocery store?|Where is the nearest grocery store?
+turbo|0.32|sentence_23.wav| Where is the nearest grocery store?|Where is the nearest grocery store?
+turbo|0.33|sentence_23.wav| Where is the nearest grocery store?|Where is the nearest grocery store?
+turbo|0.33|sentence_23.wav| Where is the nearest grocery store?|Where is the nearest grocery store?
+turbo|0.33|sentence_23.wav| Where is the nearest grocery store?|Where is the nearest grocery store?
+turbo|0.33|sentence_23.wav| Where is the nearest grocery store?|Where is the nearest grocery store?
+turbo|0.32|sentence_23.wav| Where is the nearest grocery store?|Where is the nearest grocery store?
+turbo|0.32|sentence_23.wav| Where is the nearest grocery store?|Where is the nearest grocery store?
+turbo|0.33|sentence_23.wav| Where is the nearest grocery store?|Where is the nearest grocery store?
+turbo|0.32|sentence_23.wav| Where is the nearest grocery store?|Where is the nearest grocery store?
+turbo|0.32|sentence_24.wav| What's your favorite movie?|What’s your favorite movie?
+turbo|0.32|sentence_24.wav| What's your favorite movie?|What’s your favorite movie?
+turbo|0.32|sentence_24.wav| What's your favorite movie?|What’s your favorite movie?
+turbo|0.32|sentence_24.wav| What's your favorite movie?|What’s your favorite movie?
+turbo|0.32|sentence_24.wav| What's your favorite movie?|What’s your favorite movie?
+turbo|0.32|sentence_24.wav| What's your favorite movie?|What’s your favorite movie?
+turbo|0.32|sentence_24.wav| What's your favorite movie?|What’s your favorite movie?
+turbo|0.32|sentence_24.wav| What's your favorite movie?|What’s your favorite movie?
+turbo|0.32|sentence_24.wav| What's your favorite movie?|What’s your favorite movie?
+turbo|0.32|sentence_24.wav| What's your favorite movie?|What’s your favorite movie?
+turbo|0.35|sentence_25.wav| How do I get to the bus station from here?|How do I get to the bus station from here?
+turbo|0.35|sentence_25.wav| How do I get to the bus station from here?|How do I get to the bus station from here?
+turbo|0.34|sentence_25.wav| How do I get to the bus station from here?|How do I get to the bus station from here?
+turbo|0.35|sentence_25.wav| How do I get to the bus station from here?|How do I get to the bus station from here?
+turbo|0.35|sentence_25.wav| How do I get to the bus station from here?|How do I get to the bus station from here?
+turbo|0.34|sentence_25.wav| How do I get to the bus station from here?|How do I get to the bus station from here?
+turbo|0.34|sentence_25.wav| How do I get to the bus station from here?|How do I get to the bus station from here?
+turbo|0.35|sentence_25.wav| How do I get to the bus station from here?|How do I get to the bus station from here?
+turbo|0.35|sentence_25.wav| How do I get to the bus station from here?|How do I get to the bus station from here?
+turbo|0.35|sentence_25.wav| How do I get to the bus station from here?|How do I get to the bus station from here?
+turbo|0.33|sentence_26.wav| can you repeat that i think|Can you repeat that? I didn’t catch it.
+turbo|0.32|sentence_26.wav| can you repeat that i think|Can you repeat that? I didn’t catch it.
+turbo|0.32|sentence_26.wav| can you repeat that i think|Can you repeat that? I didn’t catch it.
+turbo|0.32|sentence_26.wav| can you repeat that i think|Can you repeat that? I didn’t catch it.
+turbo|0.32|sentence_26.wav| can you repeat that i think|Can you repeat that? I didn’t catch it.
+turbo|0.32|sentence_26.wav| can you repeat that i think|Can you repeat that? I didn’t catch it.
+turbo|0.32|sentence_26.wav| can you repeat that i think|Can you repeat that? I didn’t catch it.
+turbo|0.32|sentence_26.wav| can you repeat that i think|Can you repeat that? I didn’t catch it.
+turbo|0.32|sentence_26.wav| can you repeat that i think|Can you repeat that? I didn’t catch it.
+turbo|0.32|sentence_26.wav| can you repeat that i think|Can you repeat that? I didn’t catch it.
+turbo|0.33|sentence_27.wav| how far is the airport from downtown|How far is the airport from downtown?
+turbo|0.33|sentence_27.wav| how far is the airport from downtown|How far is the airport from downtown?
+turbo|0.33|sentence_27.wav| how far is the airport from downtown|How far is the airport from downtown?
+turbo|0.33|sentence_27.wav| how far is the airport from downtown|How far is the airport from downtown?
+turbo|0.33|sentence_27.wav| how far is the airport from downtown|How far is the airport from downtown?
+turbo|0.33|sentence_27.wav| how far is the airport from downtown|How far is the airport from downtown?
+turbo|0.33|sentence_27.wav| how far is the airport from downtown|How far is the airport from downtown?
+turbo|0.33|sentence_27.wav| how far is the airport from downtown|How far is the airport from downtown?
+turbo|0.33|sentence_27.wav| how far is the airport from downtown|How far is the airport from downtown?
+turbo|0.33|sentence_27.wav| how far is the airport from downtown|How far is the airport from downtown?
+turbo|0.32|sentence_28.wav| what's the weather like today|What’s the weather like today?
+turbo|0.33|sentence_28.wav| what's the weather like today|What’s the weather like today?
+turbo|0.33|sentence_28.wav| what's the weather like today|What’s the weather like today?
+turbo|0.32|sentence_28.wav| what's the weather like today|What’s the weather like today?
+turbo|0.32|sentence_28.wav| what's the weather like today|What’s the weather like today?
+turbo|0.33|sentence_28.wav| what's the weather like today|What’s the weather like today?
+turbo|0.32|sentence_28.wav| what's the weather like today|What’s the weather like today?
+turbo|0.32|sentence_28.wav| what's the weather like today|What’s the weather like today?
+turbo|0.32|sentence_28.wav| what's the weather like today|What’s the weather like today?
+turbo|0.33|sentence_28.wav| what's the weather like today|What’s the weather like today?
+turbo|0.33|sentence_29.wav| what is the capital of france|What is the capital of France?
+turbo|0.33|sentence_29.wav| what is the capital of france|What is the capital of France?
+turbo|0.33|sentence_29.wav| what is the capital of france|What is the capital of France?
+turbo|0.33|sentence_29.wav| what is the capital of france|What is the capital of France?
+turbo|0.33|sentence_29.wav| what is the capital of france|What is the capital of France?
+turbo|0.32|sentence_29.wav| what is the capital of france|What is the capital of France?
+turbo|0.32|sentence_29.wav| what is the capital of france|What is the capital of France?
+turbo|0.33|sentence_29.wav| what is the capital of france|What is the capital of France?
+turbo|0.33|sentence_29.wav| what is the capital of france|What is the capital of France?
+turbo|0.32|sentence_29.wav| what is the capital of france|What is the capital of France?
+turbo|0.35|sentence_3.wav| let's go for a walk in the park|Let’s go for a walk in the park.
+turbo|0.33|sentence_3.wav| let's go for a walk in the park|Let’s go for a walk in the park.
+turbo|0.34|sentence_3.wav| let's go for a walk in the park|Let’s go for a walk in the park.
+turbo|0.33|sentence_3.wav| let's go for a walk in the park|Let’s go for a walk in the park.
+turbo|0.34|sentence_3.wav| let's go for a walk in the park|Let’s go for a walk in the park.
+turbo|0.34|sentence_3.wav| let's go for a walk in the park|Let’s go for a walk in the park.
+turbo|0.35|sentence_3.wav| let's go for a walk in the park|Let’s go for a walk in the park.
+turbo|0.34|sentence_3.wav| let's go for a walk in the park|Let’s go for a walk in the park.
+turbo|0.35|sentence_3.wav| let's go for a walk in the park|Let’s go for a walk in the park.
+turbo|0.34|sentence_3.wav| let's go for a walk in the park|Let’s go for a walk in the park.
+turbo|0.37|sentence_30.wav| I love the sound of waves crashing on the shore.|I love the sound of the waves crashing on the shore.
+turbo|0.36|sentence_30.wav| I love the sound of waves crashing on the shore.|I love the sound of the waves crashing on the shore.
+turbo|0.35|sentence_30.wav| I love the sound of waves crashing on the shore.|I love the sound of the waves crashing on the shore.
+turbo|0.35|sentence_30.wav| I love the sound of waves crashing on the shore.|I love the sound of the waves crashing on the shore.
+turbo|0.36|sentence_30.wav| I love the sound of waves crashing on the shore.|I love the sound of the waves crashing on the shore.
+turbo|0.37|sentence_30.wav| I love the sound of waves crashing on the shore.|I love the sound of the waves crashing on the shore.
+turbo|0.36|sentence_30.wav| I love the sound of waves crashing on the shore.|I love the sound of the waves crashing on the shore.
+turbo|0.36|sentence_30.wav| I love the sound of waves crashing on the shore.|I love the sound of the waves crashing on the shore.
+turbo|0.38|sentence_30.wav| I love the sound of waves crashing on the shore.|I love the sound of the waves crashing on the shore.
+turbo|0.35|sentence_30.wav| I love the sound of waves crashing on the shore.|I love the sound of the waves crashing on the shore.
+turbo|0.36|sentence_31.wav| It's a beautiful day to explore the city.|It’s a beautiful day to explore the city.
+turbo|0.34|sentence_31.wav| It's a beautiful day to explore the city.|It’s a beautiful day to explore the city.
+turbo|0.35|sentence_31.wav| It's a beautiful day to explore the city.|It’s a beautiful day to explore the city.
+turbo|0.34|sentence_31.wav| It's a beautiful day to explore the city.|It’s a beautiful day to explore the city.
+turbo|0.35|sentence_31.wav| It's a beautiful day to explore the city.|It’s a beautiful day to explore the city.
+turbo|0.34|sentence_31.wav| It's a beautiful day to explore the city.|It’s a beautiful day to explore the city.
+turbo|0.34|sentence_31.wav| It's a beautiful day to explore the city.|It’s a beautiful day to explore the city.
+turbo|0.34|sentence_31.wav| It's a beautiful day to explore the city.|It’s a beautiful day to explore the city.
+turbo|0.34|sentence_31.wav| It's a beautiful day to explore the city.|It’s a beautiful day to explore the city.
+turbo|0.35|sentence_31.wav| It's a beautiful day to explore the city.|It’s a beautiful day to explore the city.
+turbo|0.34|sentence_32.wav| My favorite food is pizza with extra cheese.|My favorite food is pizza with extra cheese.
+turbo|0.34|sentence_32.wav| My favorite food is pizza with extra cheese.|My favorite food is pizza with extra cheese.
+turbo|0.34|sentence_32.wav| My favorite food is pizza with extra cheese.|My favorite food is pizza with extra cheese.
+turbo|0.34|sentence_32.wav| My favorite food is pizza with extra cheese.|My favorite food is pizza with extra cheese.
+turbo|0.34|sentence_32.wav| My favorite food is pizza with extra cheese.|My favorite food is pizza with extra cheese.
+turbo|0.34|sentence_32.wav| My favorite food is pizza with extra cheese.|My favorite food is pizza with extra cheese.
+turbo|0.34|sentence_32.wav| My favorite food is pizza with extra cheese.|My favorite food is pizza with extra cheese.
+turbo|0.35|sentence_32.wav| My favorite food is pizza with extra cheese.|My favorite food is pizza with extra cheese.
+turbo|0.34|sentence_32.wav| My favorite food is pizza with extra cheese.|My favorite food is pizza with extra cheese.
+turbo|0.34|sentence_32.wav| My favorite food is pizza with extra cheese.|My favorite food is pizza with extra cheese.
+turbo|0.36|sentence_33.wav| This is the best cup of coffee I've ever had.|This is the best cup of coffee I’ve ever had.
+turbo|0.36|sentence_33.wav| This is the best cup of coffee I've ever had.|This is the best cup of coffee I’ve ever had.
+turbo|0.37|sentence_33.wav| This is the best cup of coffee I've ever had.|This is the best cup of coffee I’ve ever had.
+turbo|0.36|sentence_33.wav| This is the best cup of coffee I've ever had.|This is the best cup of coffee I’ve ever had.
+turbo|0.35|sentence_33.wav| This is the best cup of coffee I've ever had.|This is the best cup of coffee I’ve ever had.
+turbo|0.36|sentence_33.wav| This is the best cup of coffee I've ever had.|This is the best cup of coffee I’ve ever had.
+turbo|0.36|sentence_33.wav| This is the best cup of coffee I've ever had.|This is the best cup of coffee I’ve ever had.
+turbo|0.36|sentence_33.wav| This is the best cup of coffee I've ever had.|This is the best cup of coffee I’ve ever had.
+turbo|0.35|sentence_33.wav| This is the best cup of coffee I've ever had.|This is the best cup of coffee I’ve ever had.
+turbo|0.35|sentence_33.wav| This is the best cup of coffee I've ever had.|This is the best cup of coffee I’ve ever had.
+turbo|0.35|sentence_34.wav| I'll take a walk down by the beach later.|I’ll take a walk down by the beach later.
+turbo|0.36|sentence_34.wav| I'll take a walk down by the beach later.|I’ll take a walk down by the beach later.
+turbo|0.35|sentence_34.wav| I'll take a walk down by the beach later.|I’ll take a walk down by the beach later.
+turbo|0.36|sentence_34.wav| I'll take a walk down by the beach later.|I’ll take a walk down by the beach later.
+turbo|0.35|sentence_34.wav| I'll take a walk down by the beach later.|I’ll take a walk down by the beach later.
+turbo|0.36|sentence_34.wav| I'll take a walk down by the beach later.|I’ll take a walk down by the beach later.
+turbo|0.35|sentence_34.wav| I'll take a walk down by the beach later.|I’ll take a walk down by the beach later.
+turbo|0.35|sentence_34.wav| I'll take a walk down by the beach later.|I’ll take a walk down by the beach later.
+turbo|0.35|sentence_34.wav| I'll take a walk down by the beach later.|I’ll take a walk down by the beach later.
+turbo|0.36|sentence_34.wav| I'll take a walk down by the beach later.|I’ll take a walk down by the beach later.
+turbo|0.36|sentence_35.wav| She sells seashells by the seashore.|She sells seashells by the seashore.
+turbo|0.35|sentence_35.wav| She sells seashells by the seashore.|She sells seashells by the seashore.
+turbo|0.35|sentence_35.wav| She sells seashells by the seashore.|She sells seashells by the seashore.
+turbo|0.35|sentence_35.wav| She sells seashells by the seashore.|She sells seashells by the seashore.
+turbo|0.35|sentence_35.wav| She sells seashells by the seashore.|She sells seashells by the seashore.
+turbo|0.34|sentence_35.wav| She sells seashells by the seashore.|She sells seashells by the seashore.
+turbo|0.35|sentence_35.wav| She sells seashells by the seashore.|She sells seashells by the seashore.
+turbo|0.35|sentence_35.wav| She sells seashells by the seashore.|She sells seashells by the seashore.
+turbo|0.35|sentence_35.wav| She sells seashells by the seashore.|She sells seashells by the seashore.
+turbo|0.35|sentence_35.wav| She sells seashells by the seashore.|She sells seashells by the seashore.
+turbo|0.35|sentence_36.wav| Peter Piper picked a bag of pickled peppers.|Peter Piper picked a peck of pickled peppers.
+turbo|0.34|sentence_36.wav| Peter Piper picked a bag of pickled peppers.|Peter Piper picked a peck of pickled peppers.
+turbo|0.34|sentence_36.wav| Peter Piper picked a bag of pickled peppers.|Peter Piper picked a peck of pickled peppers.
+turbo|0.34|sentence_36.wav| Peter Piper picked a bag of pickled peppers.|Peter Piper picked a peck of pickled peppers.
+turbo|0.34|sentence_36.wav| Peter Piper picked a bag of pickled peppers.|Peter Piper picked a peck of pickled peppers.
+turbo|0.34|sentence_36.wav| Peter Piper picked a bag of pickled peppers.|Peter Piper picked a peck of pickled peppers.
+turbo|0.34|sentence_36.wav| Peter Piper picked a bag of pickled peppers.|Peter Piper picked a peck of pickled peppers.
+turbo|0.34|sentence_36.wav| Peter Piper picked a bag of pickled peppers.|Peter Piper picked a peck of pickled peppers.
+turbo|0.34|sentence_36.wav| Peter Piper picked a bag of pickled peppers.|Peter Piper picked a peck of pickled peppers.
+turbo|0.35|sentence_36.wav| Peter Piper picked a bag of pickled peppers.|Peter Piper picked a peck of pickled peppers.
+turbo|0.38|sentence_37.wav| How much wood would a woodchuck chuck if a woodchuck could chuck wood?|How much wood would a woodchuck chuck if a woodchuck could chuck wood?
+turbo|0.37|sentence_37.wav| How much wood would a woodchuck chuck if a woodchuck could chuck wood?|How much wood would a woodchuck chuck if a woodchuck could chuck wood?
+turbo|0.38|sentence_37.wav| How much wood would a woodchuck chuck if a woodchuck could chuck wood?|How much wood would a woodchuck chuck if a woodchuck could chuck wood?
+turbo|0.38|sentence_37.wav| How much wood would a woodchuck chuck if a woodchuck could chuck wood?|How much wood would a woodchuck chuck if a woodchuck could chuck wood?
+turbo|0.38|sentence_37.wav| How much wood would a woodchuck chuck if a woodchuck could chuck wood?|How much wood would a woodchuck chuck if a woodchuck could chuck wood?
+turbo|0.37|sentence_37.wav| How much wood would a woodchuck chuck if a woodchuck could chuck wood?|How much wood would a woodchuck chuck if a woodchuck could chuck wood?
+turbo|0.38|sentence_37.wav| How much wood would a woodchuck chuck if a woodchuck could chuck wood?|How much wood would a woodchuck chuck if a woodchuck could chuck wood?
+turbo|0.38|sentence_37.wav| How much wood would a woodchuck chuck if a woodchuck could chuck wood?|How much wood would a woodchuck chuck if a woodchuck could chuck wood?
+turbo|0.38|sentence_37.wav| How much wood would a woodchuck chuck if a woodchuck could chuck wood?|How much wood would a woodchuck chuck if a woodchuck could chuck wood?
+turbo|0.37|sentence_37.wav| How much wood would a woodchuck chuck if a woodchuck could chuck wood?|How much wood would a woodchuck chuck if a woodchuck could chuck wood?
+turbo|0.34|sentence_38.wav| Unique New York, Unique New York|Unique New York, unique New York.
+turbo|0.34|sentence_38.wav| Unique New York, Unique New York|Unique New York, unique New York.
+turbo|0.34|sentence_38.wav| Unique New York, Unique New York|Unique New York, unique New York.
+turbo|0.33|sentence_38.wav| Unique New York, Unique New York|Unique New York, unique New York.
+turbo|0.34|sentence_38.wav| Unique New York, Unique New York|Unique New York, unique New York.
+turbo|0.34|sentence_38.wav| Unique New York, Unique New York|Unique New York, unique New York.
+turbo|0.34|sentence_38.wav| Unique New York, Unique New York|Unique New York, unique New York.
+turbo|0.34|sentence_38.wav| Unique New York, Unique New York|Unique New York, unique New York.
+turbo|0.34|sentence_38.wav| Unique New York, Unique New York|Unique New York, unique New York.
+turbo|0.34|sentence_38.wav| Unique New York, Unique New York|Unique New York, unique New York.
+turbo|0.36|sentence_39.wav| Six slippery snails slid silently southward.|Six slippery snails slid silently southward.
+turbo|0.35|sentence_39.wav| Six slippery snails slid silently southward.|Six slippery snails slid silently southward.
+turbo|0.35|sentence_39.wav| Six slippery snails slid silently southward.|Six slippery snails slid silently southward.
+turbo|0.35|sentence_39.wav| Six slippery snails slid silently southward.|Six slippery snails slid silently southward.
+turbo|0.35|sentence_39.wav| Six slippery snails slid silently southward.|Six slippery snails slid silently southward.
+turbo|0.34|sentence_39.wav| Six slippery snails slid silently southward.|Six slippery snails slid silently southward.
+turbo|0.34|sentence_39.wav| Six slippery snails slid silently southward.|Six slippery snails slid silently southward.
+turbo|0.34|sentence_39.wav| Six slippery snails slid silently southward.|Six slippery snails slid silently southward.
+turbo|0.35|sentence_39.wav| Six slippery snails slid silently southward.|Six slippery snails slid silently southward.
+turbo|0.35|sentence_39.wav| Six slippery snails slid silently southward.|Six slippery snails slid silently southward.
+turbo|0.35|sentence_4.wav| I will be there in a few minutes.|I will be there in a few minutes.
+turbo|0.34|sentence_4.wav| I will be there in a few minutes.|I will be there in a few minutes.
+turbo|0.34|sentence_4.wav| I will be there in a few minutes.|I will be there in a few minutes.
+turbo|0.34|sentence_4.wav| I will be there in a few minutes.|I will be there in a few minutes.
+turbo|0.34|sentence_4.wav| I will be there in a few minutes.|I will be there in a few minutes.
+turbo|0.34|sentence_4.wav| I will be there in a few minutes.|I will be there in a few minutes.
+turbo|0.34|sentence_4.wav| I will be there in a few minutes.|I will be there in a few minutes.
+turbo|0.35|sentence_4.wav| I will be there in a few minutes.|I will be there in a few minutes.
+turbo|0.34|sentence_4.wav| I will be there in a few minutes.|I will be there in a few minutes.
+turbo|0.34|sentence_4.wav| I will be there in a few minutes.|I will be there in a few minutes.
+turbo|0.34|sentence_40.wav| What did you do over the weekend?|What did you do over the weekend?
+turbo|0.34|sentence_40.wav| What did you do over the weekend?|What did you do over the weekend?
+turbo|0.34|sentence_40.wav| What did you do over the weekend?|What did you do over the weekend?
+turbo|0.33|sentence_40.wav| What did you do over the weekend?|What did you do over the weekend?
+turbo|0.34|sentence_40.wav| What did you do over the weekend?|What did you do over the weekend?
+turbo|0.33|sentence_40.wav| What did you do over the weekend?|What did you do over the weekend?
+turbo|0.33|sentence_40.wav| What did you do over the weekend?|What did you do over the weekend?
+turbo|0.34|sentence_40.wav| What did you do over the weekend?|What did you do over the weekend?
+turbo|0.33|sentence_40.wav| What did you do over the weekend?|What did you do over the weekend?
+turbo|0.33|sentence_40.wav| What did you do over the weekend?|What did you do over the weekend?
+turbo|0.35|sentence_41.wav| I've been working on a new project at work.|I’ve been working on a new project at work.
+turbo|0.36|sentence_41.wav| I've been working on a new project at work.|I’ve been working on a new project at work.
+turbo|0.35|sentence_41.wav| I've been working on a new project at work.|I’ve been working on a new project at work.
+turbo|0.35|sentence_41.wav| I've been working on a new project at work.|I’ve been working on a new project at work.
+turbo|0.35|sentence_41.wav| I've been working on a new project at work.|I’ve been working on a new project at work.
+turbo|0.35|sentence_41.wav| I've been working on a new project at work.|I’ve been working on a new project at work.
+turbo|0.35|sentence_41.wav| I've been working on a new project at work.|I’ve been working on a new project at work.
+turbo|0.35|sentence_41.wav| I've been working on a new project at work.|I’ve been working on a new project at work.
+turbo|0.35|sentence_41.wav| I've been working on a new project at work.|I’ve been working on a new project at work.
+turbo|0.35|sentence_41.wav| I've been working on a new project at work.|I’ve been working on a new project at work.
+turbo|0.35|sentence_42.wav| I'm planning a trip to the mountains next month.|I’m planning a trip to the mountains next month.
+turbo|0.35|sentence_42.wav| I'm planning a trip to the mountains next month.|I’m planning a trip to the mountains next month.
+turbo|0.35|sentence_42.wav| I'm planning a trip to the mountains next month.|I’m planning a trip to the mountains next month.
+turbo|0.35|sentence_42.wav| I'm planning a trip to the mountains next month.|I’m planning a trip to the mountains next month.
+turbo|0.39|sentence_42.wav| I'm planning a trip to the mountains next month.|I’m planning a trip to the mountains next month.
+turbo|0.34|sentence_42.wav| I'm planning a trip to the mountains next month.|I’m planning a trip to the mountains next month.
+turbo|0.35|sentence_42.wav| I'm planning a trip to the mountains next month.|I’m planning a trip to the mountains next month.
+turbo|0.36|sentence_42.wav| I'm planning a trip to the mountains next month.|I’m planning a trip to the mountains next month.
+turbo|0.35|sentence_42.wav| I'm planning a trip to the mountains next month.|I’m planning a trip to the mountains next month.
+turbo|0.35|sentence_42.wav| I'm planning a trip to the mountains next month.|I’m planning a trip to the mountains next month.
+turbo|0.34|sentence_43.wav| Let's grab a coffee and talk about it.|Let’s grab a coffee and talk about it.
+turbo|0.34|sentence_43.wav| Let's grab a coffee and talk about it.|Let’s grab a coffee and talk about it.
+turbo|0.35|sentence_43.wav| Let's grab a coffee and talk about it.|Let’s grab a coffee and talk about it.
+turbo|0.35|sentence_43.wav| Let's grab a coffee and talk about it.|Let’s grab a coffee and talk about it.
+turbo|0.34|sentence_43.wav| Let's grab a coffee and talk about it.|Let’s grab a coffee and talk about it.
+turbo|0.35|sentence_43.wav| Let's grab a coffee and talk about it.|Let’s grab a coffee and talk about it.
+turbo|0.34|sentence_43.wav| Let's grab a coffee and talk about it.|Let’s grab a coffee and talk about it.
+turbo|0.35|sentence_43.wav| Let's grab a coffee and talk about it.|Let’s grab a coffee and talk about it.
+turbo|0.34|sentence_43.wav| Let's grab a coffee and talk about it.|Let’s grab a coffee and talk about it.
+turbo|0.35|sentence_43.wav| Let's grab a coffee and talk about it.|Let’s grab a coffee and talk about it.
+turbo|0.35|sentence_44.wav| It's been a long day. I'm exhausted.|It’s been a long day, I’m exhausted.
+turbo|0.36|sentence_44.wav| It's been a long day. I'm exhausted.|It’s been a long day, I’m exhausted.
+turbo|0.35|sentence_44.wav| It's been a long day. I'm exhausted.|It’s been a long day, I’m exhausted.
+turbo|0.35|sentence_44.wav| It's been a long day. I'm exhausted.|It’s been a long day, I’m exhausted.
+turbo|0.34|sentence_44.wav| It's been a long day. I'm exhausted.|It’s been a long day, I’m exhausted.
+turbo|0.35|sentence_44.wav| It's been a long day. I'm exhausted.|It’s been a long day, I’m exhausted.
+turbo|0.35|sentence_44.wav| It's been a long day. I'm exhausted.|It’s been a long day, I’m exhausted.
+turbo|0.35|sentence_44.wav| It's been a long day. I'm exhausted.|It’s been a long day, I’m exhausted.
+turbo|0.35|sentence_44.wav| It's been a long day. I'm exhausted.|It’s been a long day, I’m exhausted.
+turbo|0.35|sentence_44.wav| It's been a long day. I'm exhausted.|It’s been a long day, I’m exhausted.
+turbo|0.35|sentence_45.wav| We need to finalize the budget for the project.|We need to finalize the budget for the project.
+turbo|0.35|sentence_45.wav| We need to finalize the budget for the project.|We need to finalize the budget for the project.
+turbo|0.35|sentence_45.wav| We need to finalize the budget for the project.|We need to finalize the budget for the project.
+turbo|0.37|sentence_45.wav| We need to finalize the budget for the project.|We need to finalize the budget for the project.
+turbo|0.35|sentence_45.wav| We need to finalize the budget for the project.|We need to finalize the budget for the project.
+turbo|0.35|sentence_45.wav| We need to finalize the budget for the project.|We need to finalize the budget for the project.
+turbo|0.35|sentence_45.wav| We need to finalize the budget for the project.|We need to finalize the budget for the project.
+turbo|0.35|sentence_45.wav| We need to finalize the budget for the project.|We need to finalize the budget for the project.
+turbo|0.36|sentence_45.wav| We need to finalize the budget for the project.|We need to finalize the budget for the project.
+turbo|0.37|sentence_45.wav| We need to finalize the budget for the project.|We need to finalize the budget for the project.
+turbo|0.36|sentence_46.wav| Can you send me the updated report by the end of the day?|Can you send me the updated report by the end of the day?
+turbo|0.37|sentence_46.wav| Can you send me the updated report by the end of the day?|Can you send me the updated report by the end of the day?
+turbo|0.41|sentence_46.wav| Can you send me the updated report by the end of the day?|Can you send me the updated report by the end of the day?
+turbo|0.37|sentence_46.wav| Can you send me the updated report by the end of the day?|Can you send me the updated report by the end of the day?
+turbo|0.38|sentence_46.wav| Can you send me the updated report by the end of the day?|Can you send me the updated report by the end of the day?
+turbo|0.36|sentence_46.wav| Can you send me the updated report by the end of the day?|Can you send me the updated report by the end of the day?
+turbo|0.38|sentence_46.wav| Can you send me the updated report by the end of the day?|Can you send me the updated report by the end of the day?
+turbo|0.36|sentence_46.wav| Can you send me the updated report by the end of the day?|Can you send me the updated report by the end of the day?
+turbo|0.36|sentence_46.wav| Can you send me the updated report by the end of the day?|Can you send me the updated report by the end of the day?
+turbo|0.37|sentence_46.wav| Can you send me the updated report by the end of the day?|Can you send me the updated report by the end of the day?
+turbo|0.34|sentence_47.wav| Let's schedule a call for tomorrow morning.|Let’s schedule a call for tomorrow morning.
+turbo|0.35|sentence_47.wav| Let's schedule a call for tomorrow morning.|Let’s schedule a call for tomorrow morning.
+turbo|0.34|sentence_47.wav| Let's schedule a call for tomorrow morning.|Let’s schedule a call for tomorrow morning.
+turbo|0.34|sentence_47.wav| Let's schedule a call for tomorrow morning.|Let’s schedule a call for tomorrow morning.
+turbo|0.34|sentence_47.wav| Let's schedule a call for tomorrow morning.|Let’s schedule a call for tomorrow morning.
+turbo|0.34|sentence_47.wav| Let's schedule a call for tomorrow morning.|Let’s schedule a call for tomorrow morning.
+turbo|0.33|sentence_47.wav| Let's schedule a call for tomorrow morning.|Let’s schedule a call for tomorrow morning.
+turbo|0.34|sentence_47.wav| Let's schedule a call for tomorrow morning.|Let’s schedule a call for tomorrow morning.
+turbo|0.34|sentence_47.wav| Let's schedule a call for tomorrow morning.|Let’s schedule a call for tomorrow morning.
+turbo|0.34|sentence_47.wav| Let's schedule a call for tomorrow morning.|Let’s schedule a call for tomorrow morning.
+turbo|0.35|sentence_48.wav| I need to review the contract before we proceed.|I need to review the contract before we proceed.
+turbo|0.34|sentence_48.wav| I need to review the contract before we proceed.|I need to review the contract before we proceed.
+turbo|0.34|sentence_48.wav| I need to review the contract before we proceed.|I need to review the contract before we proceed.
+turbo|0.35|sentence_48.wav| I need to review the contract before we proceed.|I need to review the contract before we proceed.
+turbo|0.34|sentence_48.wav| I need to review the contract before we proceed.|I need to review the contract before we proceed.
+turbo|0.34|sentence_48.wav| I need to review the contract before we proceed.|I need to review the contract before we proceed.
+turbo|0.34|sentence_48.wav| I need to review the contract before we proceed.|I need to review the contract before we proceed.
+turbo|0.35|sentence_48.wav| I need to review the contract before we proceed.|I need to review the contract before we proceed.
+turbo|0.34|sentence_48.wav| I need to review the contract before we proceed.|I need to review the contract before we proceed.
+turbo|0.34|sentence_48.wav| I need to review the contract before we proceed.|I need to review the contract before we proceed.
+turbo|0.33|sentence_49.wav| I'm having trouble accessing the server.|I’m having trouble accessing the server.
+turbo|0.33|sentence_49.wav| I'm having trouble accessing the server.|I’m having trouble accessing the server.
+turbo|0.34|sentence_49.wav| I'm having trouble accessing the server.|I’m having trouble accessing the server.
+turbo|0.33|sentence_49.wav| I'm having trouble accessing the server.|I’m having trouble accessing the server.
+turbo|0.33|sentence_49.wav| I'm having trouble accessing the server.|I’m having trouble accessing the server.
+turbo|0.34|sentence_49.wav| I'm having trouble accessing the server.|I’m having trouble accessing the server.
+turbo|0.33|sentence_49.wav| I'm having trouble accessing the server.|I’m having trouble accessing the server.
+turbo|0.33|sentence_49.wav| I'm having trouble accessing the server.|I’m having trouble accessing the server.
+turbo|0.33|sentence_49.wav| I'm having trouble accessing the server.|I’m having trouble accessing the server.
+turbo|0.33|sentence_49.wav| I'm having trouble accessing the server.|I’m having trouble accessing the server.
+turbo|0.33|sentence_5.wav| What time does the meeting start tomorrow?|What time does the meeting start tomorrow?
+turbo|0.34|sentence_5.wav| What time does the meeting start tomorrow?|What time does the meeting start tomorrow?
+turbo|0.33|sentence_5.wav| What time does the meeting start tomorrow?|What time does the meeting start tomorrow?
+turbo|0.33|sentence_5.wav| What time does the meeting start tomorrow?|What time does the meeting start tomorrow?
+turbo|0.33|sentence_5.wav| What time does the meeting start tomorrow?|What time does the meeting start tomorrow?
+turbo|0.33|sentence_5.wav| What time does the meeting start tomorrow?|What time does the meeting start tomorrow?
+turbo|0.34|sentence_5.wav| What time does the meeting start tomorrow?|What time does the meeting start tomorrow?
+turbo|0.34|sentence_5.wav| What time does the meeting start tomorrow?|What time does the meeting start tomorrow?
+turbo|0.34|sentence_5.wav| What time does the meeting start tomorrow?|What time does the meeting start tomorrow?
+turbo|0.34|sentence_5.wav| What time does the meeting start tomorrow?|What time does the meeting start tomorrow?
+turbo|0.34|sentence_50.wav| We need to discuss the new marketing strategy.|We need to discuss the new marketing strategy.
+turbo|0.34|sentence_50.wav| We need to discuss the new marketing strategy.|We need to discuss the new marketing strategy.
+turbo|0.34|sentence_50.wav| We need to discuss the new marketing strategy.|We need to discuss the new marketing strategy.
+turbo|0.34|sentence_50.wav| We need to discuss the new marketing strategy.|We need to discuss the new marketing strategy.
+turbo|0.34|sentence_50.wav| We need to discuss the new marketing strategy.|We need to discuss the new marketing strategy.
+turbo|0.34|sentence_50.wav| We need to discuss the new marketing strategy.|We need to discuss the new marketing strategy.
+turbo|0.34|sentence_50.wav| We need to discuss the new marketing strategy.|We need to discuss the new marketing strategy.
+turbo|0.33|sentence_50.wav| We need to discuss the new marketing strategy.|We need to discuss the new marketing strategy.
+turbo|0.34|sentence_50.wav| We need to discuss the new marketing strategy.|We need to discuss the new marketing strategy.
+turbo|0.34|sentence_50.wav| We need to discuss the new marketing strategy.|We need to discuss the new marketing strategy.
+turbo|0.33|sentence_51.wav| I enjoy playing chess and solving puzzles.|I enjoy playing chess and solving puzzles.
+turbo|0.33|sentence_51.wav| I enjoy playing chess and solving puzzles.|I enjoy playing chess and solving puzzles.
+turbo|0.33|sentence_51.wav| I enjoy playing chess and solving puzzles.|I enjoy playing chess and solving puzzles.
+turbo|0.33|sentence_51.wav| I enjoy playing chess and solving puzzles.|I enjoy playing chess and solving puzzles.
+turbo|0.33|sentence_51.wav| I enjoy playing chess and solving puzzles.|I enjoy playing chess and solving puzzles.
+turbo|0.33|sentence_51.wav| I enjoy playing chess and solving puzzles.|I enjoy playing chess and solving puzzles.
+turbo|0.33|sentence_51.wav| I enjoy playing chess and solving puzzles.|I enjoy playing chess and solving puzzles.
+turbo|0.34|sentence_51.wav| I enjoy playing chess and solving puzzles.|I enjoy playing chess and solving puzzles.
+turbo|0.34|sentence_51.wav| I enjoy playing chess and solving puzzles.|I enjoy playing chess and solving puzzles.
+turbo|0.33|sentence_51.wav| I enjoy playing chess and solving puzzles.|I enjoy playing chess and solving puzzles.
+turbo|0.34|sentence_52.wav| this is a test sentence for speech recognition|This is a test sentence for speech recognition.
+turbo|0.34|sentence_52.wav| this is a test sentence for speech recognition|This is a test sentence for speech recognition.
+turbo|0.33|sentence_52.wav| this is a test sentence for speech recognition|This is a test sentence for speech recognition.
+turbo|0.33|sentence_52.wav| this is a test sentence for speech recognition|This is a test sentence for speech recognition.
+turbo|0.34|sentence_52.wav| this is a test sentence for speech recognition|This is a test sentence for speech recognition.
+turbo|0.33|sentence_52.wav| this is a test sentence for speech recognition|This is a test sentence for speech recognition.
+turbo|0.34|sentence_52.wav| this is a test sentence for speech recognition|This is a test sentence for speech recognition.
+turbo|0.33|sentence_52.wav| this is a test sentence for speech recognition|This is a test sentence for speech recognition.
+turbo|0.33|sentence_52.wav| this is a test sentence for speech recognition|This is a test sentence for speech recognition.
+turbo|0.33|sentence_52.wav| this is a test sentence for speech recognition|This is a test sentence for speech recognition.
+turbo|0.33|sentence_53.wav| Can you please help me with this task?|Could you please help me with this task?
+turbo|0.33|sentence_53.wav| Can you please help me with this task?|Could you please help me with this task?
+turbo|0.34|sentence_53.wav| Can you please help me with this task?|Could you please help me with this task?
+turbo|0.33|sentence_53.wav| Can you please help me with this task?|Could you please help me with this task?
+turbo|0.34|sentence_53.wav| Can you please help me with this task?|Could you please help me with this task?
+turbo|0.34|sentence_53.wav| Can you please help me with this task?|Could you please help me with this task?
+turbo|0.34|sentence_53.wav| Can you please help me with this task?|Could you please help me with this task?
+turbo|0.34|sentence_53.wav| Can you please help me with this task?|Could you please help me with this task?
+turbo|0.35|sentence_53.wav| Can you please help me with this task?|Could you please help me with this task?
+turbo|0.34|sentence_53.wav| Can you please help me with this task?|Could you please help me with this task?
+turbo|0.34|sentence_54.wav| I've been learning to play the guitar.|I’ve been learning to play the guitar.
+turbo|0.34|sentence_54.wav| I've been learning to play the guitar.|I’ve been learning to play the guitar.
+turbo|0.35|sentence_54.wav| I've been learning to play the guitar.|I’ve been learning to play the guitar.
+turbo|0.33|sentence_54.wav| I've been learning to play the guitar.|I’ve been learning to play the guitar.
+turbo|0.34|sentence_54.wav| I've been learning to play the guitar.|I’ve been learning to play the guitar.
+turbo|0.34|sentence_54.wav| I've been learning to play the guitar.|I’ve been learning to play the guitar.
+turbo|0.34|sentence_54.wav| I've been learning to play the guitar.|I’ve been learning to play the guitar.
+turbo|0.34|sentence_54.wav| I've been learning to play the guitar.|I’ve been learning to play the guitar.
+turbo|0.33|sentence_54.wav| I've been learning to play the guitar.|I’ve been learning to play the guitar.
+turbo|0.34|sentence_54.wav| I've been learning to play the guitar.|I’ve been learning to play the guitar.
+turbo|0.33|sentence_55.wav| Let's meet at the usual spot.|Let’s meet at the usual spot.
+turbo|0.33|sentence_55.wav| Let's meet at the usual spot.|Let’s meet at the usual spot.
+turbo|0.33|sentence_55.wav| Let's meet at the usual spot.|Let’s meet at the usual spot.
+turbo|0.33|sentence_55.wav| Let's meet at the usual spot.|Let’s meet at the usual spot.
+turbo|0.33|sentence_55.wav| Let's meet at the usual spot.|Let’s meet at the usual spot.
+turbo|0.32|sentence_55.wav| Let's meet at the usual spot.|Let’s meet at the usual spot.
+turbo|0.33|sentence_55.wav| Let's meet at the usual spot.|Let’s meet at the usual spot.
+turbo|0.33|sentence_55.wav| Let's meet at the usual spot.|Let’s meet at the usual spot.
+turbo|0.33|sentence_55.wav| Let's meet at the usual spot.|Let’s meet at the usual spot.
+turbo|0.33|sentence_55.wav| Let's meet at the usual spot.|Let’s meet at the usual spot.
+turbo|0.33|sentence_6.wav| Please pass me the salt and pepper.|Please pass me the salt and pepper.
+turbo|0.33|sentence_6.wav| Please pass me the salt and pepper.|Please pass me the salt and pepper.
+turbo|0.33|sentence_6.wav| Please pass me the salt and pepper.|Please pass me the salt and pepper.
+turbo|0.33|sentence_6.wav| Please pass me the salt and pepper.|Please pass me the salt and pepper.
+turbo|0.33|sentence_6.wav| Please pass me the salt and pepper.|Please pass me the salt and pepper.
+turbo|0.34|sentence_6.wav| Please pass me the salt and pepper.|Please pass me the salt and pepper.
+turbo|0.34|sentence_6.wav| Please pass me the salt and pepper.|Please pass me the salt and pepper.
+turbo|0.33|sentence_6.wav| Please pass me the salt and pepper.|Please pass me the salt and pepper.
+turbo|0.34|sentence_6.wav| Please pass me the salt and pepper.|Please pass me the salt and pepper.
+turbo|0.33|sentence_6.wav| Please pass me the salt and pepper.|Please pass me the salt and pepper.
+turbo|0.34|sentence_7.wav| I can't believe it's already October.|I can’t believe it’s already October!
+turbo|0.34|sentence_7.wav| I can't believe it's already October.|I can’t believe it’s already October!
+turbo|0.33|sentence_7.wav| I can't believe it's already October.|I can’t believe it’s already October!
+turbo|0.34|sentence_7.wav| I can't believe it's already October.|I can’t believe it’s already October!
+turbo|0.34|sentence_7.wav| I can't believe it's already October.|I can’t believe it’s already October!
+turbo|0.33|sentence_7.wav| I can't believe it's already October.|I can’t believe it’s already October!
+turbo|0.33|sentence_7.wav| I can't believe it's already October.|I can’t believe it’s already October!
+turbo|0.35|sentence_7.wav| I can't believe it's already October.|I can’t believe it’s already October!
+turbo|0.34|sentence_7.wav| I can't believe it's already October.|I can’t believe it’s already October!
+turbo|0.35|sentence_7.wav| I can't believe it's already October.|I can’t believe it’s already October!
+turbo|0.35|sentence_8.wav| Do you like to read books or watch movies?|Do you like to read books or watch movies?
+turbo|0.35|sentence_8.wav| Do you like to read books or watch movies?|Do you like to read books or watch movies?
+turbo|0.34|sentence_8.wav| Do you like to read books or watch movies?|Do you like to read books or watch movies?
+turbo|0.34|sentence_8.wav| Do you like to read books or watch movies?|Do you like to read books or watch movies?
+turbo|0.34|sentence_8.wav| Do you like to read books or watch movies?|Do you like to read books or watch movies?
+turbo|0.35|sentence_8.wav| Do you like to read books or watch movies?|Do you like to read books or watch movies?
+turbo|0.35|sentence_8.wav| Do you like to read books or watch movies?|Do you like to read books or watch movies?
+turbo|0.34|sentence_8.wav| Do you like to read books or watch movies?|Do you like to read books or watch movies?
+turbo|0.34|sentence_8.wav| Do you like to read books or watch movies?|Do you like to read books or watch movies?
+turbo|0.34|sentence_8.wav| Do you like to read books or watch movies?|Do you like to read books or watch movies?
+turbo|0.35|sentence_9.wav| I enjoy spending time with my friends and family.|I enjoy spending time with my friends and family.
+turbo|0.35|sentence_9.wav| I enjoy spending time with my friends and family.|I enjoy spending time with my friends and family.
+turbo|0.36|sentence_9.wav| I enjoy spending time with my friends and family.|I enjoy spending time with my friends and family.
+turbo|0.35|sentence_9.wav| I enjoy spending time with my friends and family.|I enjoy spending time with my friends and family.
+turbo|0.38|sentence_9.wav| I enjoy spending time with my friends and family.|I enjoy spending time with my friends and family.
+turbo|0.46|sentence_9.wav| I enjoy spending time with my friends and family.|I enjoy spending time with my friends and family.
+turbo|0.40|sentence_9.wav| I enjoy spending time with my friends and family.|I enjoy spending time with my friends and family.
+turbo|0.45|sentence_9.wav| I enjoy spending time with my friends and family.|I enjoy spending time with my friends and family.
+turbo|0.40|sentence_9.wav| I enjoy spending time with my friends and family.|I enjoy spending time with my friends and family.
+turbo|0.43|sentence_9.wav| I enjoy spending time with my friends and family.|I enjoy spending time with my friends and family.
