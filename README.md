@@ -12,7 +12,9 @@ Going with ___small.en___ for now. Might change to _medium.en_ or _turbo_ if per
 
 
 ## Step 2: Figure out real time transcription
+Got "real time" working. Listens to and transcribes 1-second chunks of audio.
 
+Need to update to use the whisper library itself to figure out if the audio in the buffer ends on a \n or something like that
 
 ## Step 3: Fine-tuning
 
